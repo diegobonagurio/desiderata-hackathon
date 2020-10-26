@@ -11,7 +11,7 @@ Desiderta Hackathon
 
 ## Sobre
 
-A solução para uma efetiva mudança nas práticas alimentares e físicas das crianças é o envolvimento e comprometimento da família. Assim como nos atentarmos em aproveitar a frequência do uso do celular para promover a educação alimentar com reforço positivo, o diálogo entre pais e filhos, e também auxiliar os profissionais de saúde na coleta de dados Acesse o [Link](https://www.youtube.com/watch?v=GZNOGPM4UrI&feature=youtu.be) para saber mais sobre o Spot.
+A solução para uma efetiva mudança nas práticas alimentares e físicas das crianças é o envolvimento e comprometimento da família. Assim como nos atentarmos em aproveitar a frequência do uso do celular para promover a educação alimentar com reforço positivo, o diálogo entre pais e filhos, e também auxiliar os profissionais de saúde na coleta de dados. Acesse o [Link](https://www.youtube.com/watch?v=GZNOGPM4UrI&feature=youtu.be) para saber mais sobre o Spot.
 
 ## Como usar
 
