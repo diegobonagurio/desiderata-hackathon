@@ -15,7 +15,7 @@ A solução para uma efetiva mudança nas práticas alimentares e físicas das c
 
 ## Como usar
 
-Acesse este [Link](https://youtu.be/yV2wEFefheE) e saiba como sar o aplicativo Spot.
+Acesse este [Link](https://youtu.be/yV2wEFefheE) e saiba como usar o aplicativo Spot.
 
 
 ## Tecnologias
