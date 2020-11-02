@@ -1,5 +1,5 @@
 # desiderata-hackathon
-Desiderta Hackathon
+Desiderata Hackathon
 
 # Spot
 
