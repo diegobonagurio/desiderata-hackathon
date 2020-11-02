@@ -1,6 +1,8 @@
 # desiderata-hackathon
 Desiderata Hackathon
 
+![spot](https://user-images.githubusercontent.com/56571038/97868326-3ca25d80-1cee-11eb-93cb-8bd4905ee861.jpg)
+
 # Spot
 
  * [Sobre](#Sobre)
